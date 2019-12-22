@@ -1,9 +1,10 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "plants",
+  "description": "plant blog",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "jinhei",
   "dependencies": {
+    "@iconscout/react-unicons": "0.0.1",
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.0.23",
